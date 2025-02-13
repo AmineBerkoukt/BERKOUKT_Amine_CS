@@ -8,7 +8,7 @@ public class Programmeur {
     public string Prenom { get; set; }
     public int Bureau { get; set; }
     
-    public List<Programmeur> programmeurs = new List<Programmeur>();
+    public static List<Programmeur> programmeurs = new List<Programmeur>();
 
     public Programmeur(string nom, string prenom, int bureau) {
         ID = idCounter++;

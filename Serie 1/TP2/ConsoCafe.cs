@@ -5,7 +5,7 @@ public class ConsoCafe {
     public Programmeur Programmeur { get; set; }
     public int NbTasses { get; set; } = 0;
     
-    public List<ConsoCafe> consoCafe = new List<ConsoCafe>();
+    public static List<ConsoCafe> consoCafe = new List<ConsoCafe>();
 
 
     public ConsoCafe(int noSemaine, Programmeur programmeur, int nbTasses) {

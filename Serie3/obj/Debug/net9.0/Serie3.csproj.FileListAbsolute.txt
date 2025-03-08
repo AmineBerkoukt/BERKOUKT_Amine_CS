@@ -1,0 +1,15 @@
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\Serie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\Serie3.AssemblyInfoInputs.cache
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\Serie3.AssemblyInfo.cs
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\Serie3.csproj.CoreCompileInputs.cache
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\Serie3.sourcelink.json
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\bin\Debug\net9.0\Serie3.exe
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\bin\Debug\net9.0\Serie3.deps.json
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\bin\Debug\net9.0\Serie3.runtimeconfig.json
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\bin\Debug\net9.0\Serie3.dll
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\bin\Debug\net9.0\Serie3.pdb
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\Serie3.dll
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\refint\Serie3.dll
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\Serie3.pdb
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\Serie3.genruntimeconfig.cache
+C:\Users\Amine\Desktop\GINF2\aS2\Mi-Semester 1\C#\TPs\TPs_CS\Serie3\obj\Debug\net9.0\ref\Serie3.dll
